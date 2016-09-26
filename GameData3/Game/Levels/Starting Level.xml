@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:WorldClasses="RpgLibrary.WorldClasses">
+  <Asset Type="WorldClasses:LevelData">
+    <LevelName>Starting Level</LevelName>
+    <MapName>Cave</MapName>
+    <MapWidth>25</MapWidth>
+    <MapHeight>25</MapHeight>
+    <CharacterNames />
+    <ChestNames />
+    <TrapNames />
+  </Asset>
+</XnaContent>

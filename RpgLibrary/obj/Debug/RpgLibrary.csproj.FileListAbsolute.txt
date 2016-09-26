@@ -1,0 +1,7 @@
+D:\C# Projects\YureaProject\RpgLibrary\bin\Debug\RpgLibrary.dll
+D:\C# Projects\YureaProject\RpgLibrary\bin\Debug\RpgLibrary.pdb
+D:\C# Projects\YureaProject\RpgLibrary\obj\Debug\RpgLibrary.dll
+D:\C# Projects\YureaProject\RpgLibrary\obj\Debug\RpgLibrary.pdb
+D:\C# Projects\YureaProject\RpgLibrary\bin\Debug\System.Net.Http.dll
+D:\C# Projects\YureaProject\RpgLibrary\bin\Debug\System.Net.Http.xml
+D:\C# Projects\YureaProject\RpgLibrary\obj\Debug\RpgLibrary.csprojResolveAssemblyReference.cache

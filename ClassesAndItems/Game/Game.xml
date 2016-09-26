@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="RpgLibrary.RolePlayingGame">
+    <Name>YureaProject</Name>
+    <Description>Class and item database for Yurea pt.1</Description>
+  </Asset>
+</XnaContent>

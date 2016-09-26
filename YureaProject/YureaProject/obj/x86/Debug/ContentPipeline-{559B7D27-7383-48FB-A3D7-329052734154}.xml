@@ -1,0 +1,1374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\Titlescreen.png</Source>
+      <Name>Backgrounds\Titlescreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Backgrounds\Titlescreen.xnb</Output>
+      <Time>2016-06-27T20:40:43.9939292+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Gui\leftarrowUp.png</Source>
+      <Name>Gui\leftarrowUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Gui\leftarrowUp.xnb</Output>
+      <Time>2010-11-18T11:50:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gui\rightarrowUp.png</Source>
+      <Name>Gui\rightarrowUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Gui\rightarrowUp.xnb</Output>
+      <Time>2010-11-18T11:50:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gui\StopBar.png</Source>
+      <Name>Gui\StopBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Gui\StopBar.xnb</Output>
+      <Time>2010-11-18T11:50:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_A1.png</Source>
+      <Name>Tilesets\Dungeon_A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Dungeon_A1.xnb</Output>
+      <Time>2016-06-28T15:09:19.2390153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_A2.png</Source>
+      <Name>Tilesets\Dungeon_A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Dungeon_A2.xnb</Output>
+      <Time>2016-06-28T15:09:19.2555428+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_A4.png</Source>
+      <Name>Tilesets\Dungeon_A4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Dungeon_A4.xnb</Output>
+      <Time>2016-06-28T15:09:19.2605465+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_A5.png</Source>
+      <Name>Tilesets\Dungeon_A5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Dungeon_A5.xnb</Output>
+      <Time>2016-06-28T15:09:19.2625473+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_B.png</Source>
+      <Name>Tilesets\Dungeon_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Dungeon_B.xnb</Output>
+      <Time>2016-06-28T15:09:19.2645478+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_C.png</Source>
+      <Name>Tilesets\Dungeon_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Dungeon_C.xnb</Output>
+      <Time>2016-06-28T15:09:19.266548+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_A1.png</Source>
+      <Name>Tilesets\Inside_A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Inside_A1.xnb</Output>
+      <Time>2016-06-28T15:09:19.268551+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_A2.png</Source>
+      <Name>Tilesets\Inside_A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Inside_A2.xnb</Output>
+      <Time>2016-06-28T15:09:19.2700519+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_A4.png</Source>
+      <Name>Tilesets\Inside_A4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Inside_A4.xnb</Output>
+      <Time>2016-06-28T15:09:19.2725529+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_A5.png</Source>
+      <Name>Tilesets\Inside_A5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Inside_A5.xnb</Output>
+      <Time>2016-06-28T15:09:19.2745533+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_B.png</Source>
+      <Name>Tilesets\Inside_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Inside_B.xnb</Output>
+      <Time>2016-06-28T15:09:19.2765529+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_C.png</Source>
+      <Name>Tilesets\Inside_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Inside_C.xnb</Output>
+      <Time>2016-06-28T15:09:19.2790538+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A1.png</Source>
+      <Name>Tilesets\Outside_A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Outside_A1.xnb</Output>
+      <Time>2016-06-28T15:09:19.2810543+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A2.png</Source>
+      <Name>Tilesets\Outside_A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Outside_A2.xnb</Output>
+      <Time>2016-06-28T15:09:19.2825547+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A3.png</Source>
+      <Name>Tilesets\Outside_A3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Outside_A3.xnb</Output>
+      <Time>2016-06-28T15:09:19.2845558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A4.png</Source>
+      <Name>Tilesets\Outside_A4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Outside_A4.xnb</Output>
+      <Time>2016-06-28T15:09:19.2860568+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A5.png</Source>
+      <Name>Tilesets\Outside_A5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Outside_A5.xnb</Output>
+      <Time>2016-06-28T15:09:19.288056+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_B.png</Source>
+      <Name>Tilesets\Outside_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Outside_B.xnb</Output>
+      <Time>2016-06-28T15:09:19.2900565+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_C.png</Source>
+      <Name>Tilesets\Outside_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\Outside_C.xnb</Output>
+      <Time>2016-06-28T15:09:19.2920573+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\World_A1.png</Source>
+      <Name>Tilesets\World_A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\World_A1.xnb</Output>
+      <Time>2016-06-28T15:09:19.2940575+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\World_A2.png</Source>
+      <Name>Tilesets\World_A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\World_A2.xnb</Output>
+      <Time>2016-06-28T15:09:19.296058+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\World_B.png</Source>
+      <Name>Tilesets\World_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\World_B.xnb</Output>
+      <Time>2016-06-28T15:09:19.2980603+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!$Gate1.png</Source>
+      <Name>PlayerSprites\!$Gate1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!$Gate1.xnb</Output>
+      <Time>2016-06-28T18:00:36.8949245+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!$Gate2.png</Source>
+      <Name>PlayerSprites\!$Gate2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!$Gate2.xnb</Output>
+      <Time>2016-06-28T18:00:36.8949245+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Chest.png</Source>
+      <Name>PlayerSprites\!Chest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Chest.xnb</Output>
+      <Time>2016-06-28T18:00:36.9144859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Crystal.png</Source>
+      <Name>PlayerSprites\!Crystal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Crystal.xnb</Output>
+      <Time>2016-06-28T18:00:36.9144859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Door1.png</Source>
+      <Name>PlayerSprites\!Door1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Door1.xnb</Output>
+      <Time>2016-06-28T18:00:36.9144859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Door2.png</Source>
+      <Name>PlayerSprites\!Door2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Door2.xnb</Output>
+      <Time>2016-06-28T18:00:36.9144859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Door3.png</Source>
+      <Name>PlayerSprites\!Door3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Door3.xnb</Output>
+      <Time>2016-06-28T18:00:36.9144859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Flame.png</Source>
+      <Name>PlayerSprites\!Flame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Flame.xnb</Output>
+      <Time>2016-06-28T18:00:36.9144859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Hexagram.png</Source>
+      <Name>PlayerSprites\!Hexagram</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Hexagram.xnb</Output>
+      <Time>2016-06-28T18:00:36.9144859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Other1.png</Source>
+      <Name>PlayerSprites\!Other1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Other1.xnb</Output>
+      <Time>2016-06-28T18:00:36.9144859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Other2.png</Source>
+      <Name>PlayerSprites\!Other2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Other2.xnb</Output>
+      <Time>2016-06-28T18:00:36.931083+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Other3.png</Source>
+      <Name>PlayerSprites\!Other3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Other3.xnb</Output>
+      <Time>2016-06-28T18:00:36.9330835+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Switch1.png</Source>
+      <Name>PlayerSprites\!Switch1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Switch1.xnb</Output>
+      <Time>2016-06-28T18:00:36.9345836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\!Switch2.png</Source>
+      <Name>PlayerSprites\!Switch2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\!Switch2.xnb</Output>
+      <Time>2016-06-28T18:00:36.9345836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\$BigMonster1.png</Source>
+      <Name>PlayerSprites\$BigMonster1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\$BigMonster1.xnb</Output>
+      <Time>2016-06-28T18:00:36.9345836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\$BigMonster2.png</Source>
+      <Name>PlayerSprites\$BigMonster2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\$BigMonster2.xnb</Output>
+      <Time>2016-06-28T18:00:36.9345836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\$Coffin.png</Source>
+      <Name>PlayerSprites\$Coffin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\$Coffin.xnb</Output>
+      <Time>2016-06-28T18:00:36.9646191+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Actor1.png</Source>
+      <Name>PlayerSprites\Actor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Actor1.xnb</Output>
+      <Time>2016-06-28T18:00:36.9671231+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Actor2.png</Source>
+      <Name>PlayerSprites\Actor2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Actor2.xnb</Output>
+      <Time>2016-06-28T18:00:36.9696209+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Actor3.png</Source>
+      <Name>PlayerSprites\Actor3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Actor3.xnb</Output>
+      <Time>2016-06-28T18:00:36.981176+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Actor4.png</Source>
+      <Name>PlayerSprites\Actor4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Actor4.xnb</Output>
+      <Time>2016-06-28T18:00:36.9846762+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Actor5.png</Source>
+      <Name>PlayerSprites\Actor5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Actor5.xnb</Output>
+      <Time>2016-06-28T18:00:37.0026806+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Animal.png</Source>
+      <Name>PlayerSprites\Animal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Animal.xnb</Output>
+      <Time>2016-06-28T18:00:37.0242196+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Behavior1.png</Source>
+      <Name>PlayerSprites\Behavior1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Behavior1.xnb</Output>
+      <Time>2016-06-28T18:00:37.0352214+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Behavior2.png</Source>
+      <Name>PlayerSprites\Behavior2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Behavior2.xnb</Output>
+      <Time>2016-06-28T18:00:37.0352214+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Behavior3.png</Source>
+      <Name>PlayerSprites\Behavior3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Behavior3.xnb</Output>
+      <Time>2016-06-28T18:00:37.0526988+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Behavior4.png</Source>
+      <Name>PlayerSprites\Behavior4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Behavior4.xnb</Output>
+      <Time>2016-06-28T18:00:37.0557035+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Damage1.png</Source>
+      <Name>PlayerSprites\Damage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Damage1.xnb</Output>
+      <Time>2016-06-28T18:00:37.0808448+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Damage2.png</Source>
+      <Name>PlayerSprites\Damage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Damage2.xnb</Output>
+      <Time>2016-06-28T18:00:37.0838462+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Damage3.png</Source>
+      <Name>PlayerSprites\Damage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Damage3.xnb</Output>
+      <Time>2016-06-28T18:00:37.0863465+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Damage4.png</Source>
+      <Name>PlayerSprites\Damage4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Damage4.xnb</Output>
+      <Time>2016-06-28T18:00:37.0888468+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Evil.png</Source>
+      <Name>PlayerSprites\Evil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Evil.xnb</Output>
+      <Time>2016-06-28T18:00:37.0908473+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Insane1.png</Source>
+      <Name>PlayerSprites\Insane1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Insane1.xnb</Output>
+      <Time>2016-06-28T18:00:37.0938486+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Insane2.png</Source>
+      <Name>PlayerSprites\Insane2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Insane2.xnb</Output>
+      <Time>2016-06-28T18:00:37.1224397+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Monster1.png</Source>
+      <Name>PlayerSprites\Monster1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Monster1.xnb</Output>
+      <Time>2016-06-28T18:00:37.1249357+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Monster2.png</Source>
+      <Name>PlayerSprites\Monster2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Monster2.xnb</Output>
+      <Time>2016-06-28T18:00:37.1374848+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Monster3.png</Source>
+      <Name>PlayerSprites\Monster3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Monster3.xnb</Output>
+      <Time>2016-06-28T18:00:37.1403782+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\People1.png</Source>
+      <Name>PlayerSprites\People1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\People1.xnb</Output>
+      <Time>2016-06-28T18:00:37.1423707+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\People2.png</Source>
+      <Name>PlayerSprites\People2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\People2.xnb</Output>
+      <Time>2016-06-28T18:00:37.1443712+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\People3.png</Source>
+      <Name>PlayerSprites\People3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\People3.xnb</Output>
+      <Time>2016-06-28T18:00:37.1463714+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\People4.png</Source>
+      <Name>PlayerSprites\People4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\People4.xnb</Output>
+      <Time>2016-06-28T18:00:37.1483722+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\People5.png</Source>
+      <Name>PlayerSprites\People5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\People5.xnb</Output>
+      <Time>2016-06-28T18:00:37.1503727+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\People6.png</Source>
+      <Name>PlayerSprites\People6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\People6.xnb</Output>
+      <Time>2016-06-28T18:00:37.1523759+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\People7.png</Source>
+      <Name>PlayerSprites\People7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\People7.xnb</Output>
+      <Time>2016-06-28T18:00:37.1553739+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\People8.png</Source>
+      <Name>PlayerSprites\People8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\People8.xnb</Output>
+      <Time>2016-06-28T18:00:37.1578745+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Riding.png</Source>
+      <Name>PlayerSprites\Riding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Riding.xnb</Output>
+      <Time>2016-06-28T18:00:37.159875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Spiritual.png</Source>
+      <Name>PlayerSprites\Spiritual</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Spiritual.xnb</Output>
+      <Time>2016-06-28T18:00:37.1618786+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\Vehicle.png</Source>
+      <Name>PlayerSprites\Vehicle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\Vehicle.xnb</Output>
+      <Time>2016-06-28T18:00:37.1644067+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\femalefighter.png</Source>
+      <Name>PlayerSprites\femalefighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\femalefighter.xnb</Output>
+      <Time>2016-06-28T23:49:00.9680893+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\femalemage.png</Source>
+      <Name>PlayerSprites\femalemage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\femalemage.xnb</Output>
+      <Time>2016-06-28T23:49:54.3998305+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\femalerogue.png</Source>
+      <Name>PlayerSprites\femalerogue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\femalerogue.xnb</Output>
+      <Time>2016-06-28T23:41:58.967265+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\malefighter.png</Source>
+      <Name>PlayerSprites\malefighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\malefighter.xnb</Output>
+      <Time>2016-06-28T23:48:22.3791154+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\malemage.png</Source>
+      <Name>PlayerSprites\malemage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\malemage.xnb</Output>
+      <Time>2016-06-28T23:49:35.407371+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites\malerogue.png</Source>
+      <Name>PlayerSprites\malerogue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\PlayerSprites\malerogue.xnb</Output>
+      <Time>2016-06-28T23:41:17.4145332+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Gui\listBoxImage.png</Source>
+      <Name>Gui\listBoxImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Gui\listBoxImage.xnb</Output>
+      <Time>2011-01-09T16:14:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ObjectSprites\containers.png</Source>
+      <Name>ObjectSprites\containers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\ObjectSprites\containers.xnb</Output>
+      <Time>2011-01-27T18:45:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\default.png</Source>
+      <Name>Tilesets\default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Tilesets\default.xnb</Output>
+      <Time>2016-07-10T13:04:48.6334055+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor01.png</Source>
+      <Name>Portraits\Actor01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor01.xnb</Output>
+      <Time>2016-07-12T16:01:10.485164+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor02.png</Source>
+      <Name>Portraits\Actor02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor02.xnb</Output>
+      <Time>2016-07-12T16:01:10.4999873+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor03.png</Source>
+      <Name>Portraits\Actor03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor03.xnb</Output>
+      <Time>2016-07-12T16:01:10.5041557+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor04.png</Source>
+      <Name>Portraits\Actor04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor04.xnb</Output>
+      <Time>2016-07-12T16:01:10.5081566+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor05.1.png</Source>
+      <Name>Portraits\Actor05.1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor05.1.xnb</Output>
+      <Time>2016-07-12T16:01:10.5136605+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor05.2.png</Source>
+      <Name>Portraits\Actor05.2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor05.2.xnb</Output>
+      <Time>2016-07-12T16:01:10.5151615+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor05.3.png</Source>
+      <Name>Portraits\Actor05.3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor05.3.xnb</Output>
+      <Time>2016-07-12T16:01:10.5171613+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor06.png</Source>
+      <Name>Portraits\Actor06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor06.xnb</Output>
+      <Time>2016-07-12T16:01:10.5275452+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor07.png</Source>
+      <Name>Portraits\Actor07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor07.xnb</Output>
+      <Time>2016-07-12T16:01:10.534734+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor08.png</Source>
+      <Name>Portraits\Actor08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor08.xnb</Output>
+      <Time>2016-07-12T16:01:10.5407361+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor09.png</Source>
+      <Name>Portraits\Actor09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor09.xnb</Output>
+      <Time>2016-07-12T16:01:10.5442902+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor1.png</Source>
+      <Name>Portraits\Actor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor1.xnb</Output>
+      <Time>2016-07-12T16:01:10.4979859+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor10.1.png</Source>
+      <Name>Portraits\Actor10.1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor10.1.xnb</Output>
+      <Time>2016-07-12T16:01:10.5606708+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor10.png</Source>
+      <Name>Portraits\Actor10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor10.xnb</Output>
+      <Time>2016-07-12T16:01:10.5631711+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor10_ex.png</Source>
+      <Name>Portraits\Actor10_ex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor10_ex.xnb</Output>
+      <Time>2016-07-12T16:01:10.5656718+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor11.1.png</Source>
+      <Name>Portraits\Actor11.1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor11.1.xnb</Output>
+      <Time>2016-07-12T16:01:10.5676723+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor11.png</Source>
+      <Name>Portraits\Actor11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor11.xnb</Output>
+      <Time>2016-07-12T16:01:10.5696727+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor11_ex.png</Source>
+      <Name>Portraits\Actor11_ex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor11_ex.xnb</Output>
+      <Time>2016-07-12T16:01:10.5716732+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor12.1.png</Source>
+      <Name>Portraits\Actor12.1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor12.1.xnb</Output>
+      <Time>2016-07-12T16:01:10.5741739+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor12.png</Source>
+      <Name>Portraits\Actor12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor12.xnb</Output>
+      <Time>2016-07-12T16:01:10.5761744+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor13.1.png</Source>
+      <Name>Portraits\Actor13.1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor13.1.xnb</Output>
+      <Time>2016-07-12T16:01:10.5781817+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor13.png</Source>
+      <Name>Portraits\Actor13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor13.xnb</Output>
+      <Time>2016-07-12T16:01:10.5796749+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor14.1.png</Source>
+      <Name>Portraits\Actor14.1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor14.1.xnb</Output>
+      <Time>2016-07-12T16:01:10.5816757+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor14.png</Source>
+      <Name>Portraits\Actor14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor14.xnb</Output>
+      <Time>2016-07-12T16:01:10.5836774+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor2.png</Source>
+      <Name>Portraits\Actor2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor2.xnb</Output>
+      <Time>2016-07-12T16:01:10.5021533+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor3.png</Source>
+      <Name>Portraits\Actor3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor3.xnb</Output>
+      <Time>2016-07-12T16:01:10.5061561+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor4.png</Source>
+      <Name>Portraits\Actor4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor4.xnb</Output>
+      <Time>2016-07-12T16:01:10.5101571+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor4_ex.png</Source>
+      <Name>Portraits\Actor4_ex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor4_ex.xnb</Output>
+      <Time>2016-07-12T16:01:10.51166+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor5.png</Source>
+      <Name>Portraits\Actor5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor5.xnb</Output>
+      <Time>2016-07-12T16:01:10.5240452+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor5_ex.png</Source>
+      <Name>Portraits\Actor5_ex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor5_ex.xnb</Output>
+      <Time>2016-07-12T16:01:10.5255447+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor6.1.png</Source>
+      <Name>Portraits\Actor6.1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor6.1.xnb</Output>
+      <Time>2016-07-12T16:01:10.5295466+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor6.png</Source>
+      <Name>Portraits\Actor6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor6.xnb</Output>
+      <Time>2016-07-12T16:01:10.531046+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor6_sabun01.png</Source>
+      <Name>Portraits\Actor6_sabun01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor6_sabun01.xnb</Output>
+      <Time>2016-07-12T16:01:10.5332339+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor7.png</Source>
+      <Name>Portraits\Actor7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor7.xnb</Output>
+      <Time>2016-07-12T16:01:10.5367348+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor7_b.png</Source>
+      <Name>Portraits\Actor7_b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor7_b.xnb</Output>
+      <Time>2016-07-12T16:01:10.5387356+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor8.png</Source>
+      <Name>Portraits\Actor8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor8.xnb</Output>
+      <Time>2016-07-12T16:01:10.5422402+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\Actor9.png</Source>
+      <Name>Portraits\Actor9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\Actor9.xnb</Output>
+      <Time>2016-07-12T16:01:10.5581708+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\FemaleFighter.png</Source>
+      <Name>Portraits\FemaleFighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\FemaleFighter.xnb</Output>
+      <Time>2016-07-12T16:12:10.5650411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\FemaleMage.png</Source>
+      <Name>Portraits\FemaleMage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\FemaleMage.xnb</Output>
+      <Time>2016-07-12T16:12:10.5678133+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\FemaleRogue.png</Source>
+      <Name>Portraits\FemaleRogue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\FemaleRogue.xnb</Output>
+      <Time>2016-07-12T16:12:10.569816+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\MaleFighter.png</Source>
+      <Name>Portraits\MaleFighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\MaleFighter.xnb</Output>
+      <Time>2016-07-12T16:12:10.5805369+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\MaleMage.png</Source>
+      <Name>Portraits\MaleMage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\MaleMage.xnb</Output>
+      <Time>2016-07-12T16:12:10.5830375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Portraits\MaleRogue.png</Source>
+      <Name>Portraits\MaleRogue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Portraits\MaleRogue.xnb</Output>
+      <Time>2016-07-12T16:12:10.5855388+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ControlFont.spritefont</Source>
+      <Name>Fonts\ControlFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Fonts\ControlFont.xnb</Output>
+      <Time>2016-06-28T15:02:17.9035305+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Classes\Fighter.xml</Source>
+      <Name>Game\Classes\Fighter</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Classes\Fighter.xnb</Output>
+      <Time>2016-07-06T19:45:13.6260528+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Classes\Rogue.xml</Source>
+      <Name>Game\Classes\Rogue</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Classes\Rogue.xnb</Output>
+      <Time>2016-07-06T19:53:13.3528709+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Game.xml</Source>
+      <Name>Game\Game</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Game.xnb</Output>
+      <Time>2016-07-06T19:18:51.0691772+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Skills\Herbalism.xml</Source>
+      <Name>Game\Skills\Herbalism</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Skills\Herbalism.xnb</Output>
+      <Time>2016-07-06T19:34:22.8793787+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Chests\Rusty Chest.xml</Source>
+      <Name>Game\Chests\Rusty Chest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Chests\Rusty Chest.xnb</Output>
+      <Time>2016-07-06T19:34:20.9771431+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Chests\Silver Chest.xml</Source>
+      <Name>Game\Chests\Silver Chest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Chests\Silver Chest.xnb</Output>
+      <Time>2016-07-06T19:34:20.979644+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Classes\Mage.xml</Source>
+      <Name>Game\Classes\Mage</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Classes\Mage.xnb</Output>
+      <Time>2016-07-06T19:53:15.3428638+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Keys\Rusty Key.xml</Source>
+      <Name>Game\Keys\Rusty Key</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Keys\Rusty Key.xnb</Output>
+      <Time>2016-07-06T19:34:22.866369+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Keys\Silver Key.xml</Source>
+      <Name>Game\Keys\Silver Key</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Keys\Silver Key.xnb</Output>
+      <Time>2016-07-06T19:34:22.8678697+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Skills\Bartering.xml</Source>
+      <Name>Game\Skills\Bartering</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Skills\Bartering.xnb</Output>
+      <Time>2016-07-06T19:34:22.8738712+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Skills\Poison Making.xml</Source>
+      <Name>Game\Skills\Poison Making</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Skills\Poison Making.xnb</Output>
+      <Time>2016-07-06T19:34:22.8838733+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Skills\Trap Making.xml</Source>
+      <Name>Game\Skills\Trap Making</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Skills\Trap Making.xnb</Output>
+      <Time>2016-07-06T19:34:22.904383+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Armor\Leather Armor.xml</Source>
+      <Name>Game\Items\Armor\Leather Armor</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Items\Armor\Leather Armor.xnb</Output>
+      <Time>2016-07-06T20:06:44.7499142+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Shield\Wooden Shield.xml</Source>
+      <Name>Game\Items\Shield\Wooden Shield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Items\Shield\Wooden Shield.xnb</Output>
+      <Time>2016-07-06T20:06:44.7519144+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Weapon\Iron Dagger.xml</Source>
+      <Name>Game\Items\Weapon\Iron Dagger</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Items\Weapon\Iron Dagger.xnb</Output>
+      <Time>2016-07-06T20:06:44.7546856+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Items\Weapon\Iron Sword.xml</Source>
+      <Name>Game\Items\Weapon\Iron Sword</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Items\Weapon\Iron Sword.xnb</Output>
+      <Time>2016-07-06T20:06:44.765916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Levels\TestQuest.xml</Source>
+      <Name>Game\Levels\TestQuest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Levels\TestQuest.xnb</Output>
+      <Time>2016-07-11T19:26:10.7888282+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Levels\Maps\UndergroundHouse.xml</Source>
+      <Name>Game\Levels\Maps\UndergroundHouse</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Levels\Maps\UndergroundHouse.xnb</Output>
+      <Time>2016-07-12T15:14:03.7538051+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Levels\Maps\Forest.xml</Source>
+      <Name>Game\Levels\Maps\Forest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Levels\Maps\Forest.xnb</Output>
+      <Time>2016-07-12T15:11:15.1900837+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\Levels\Maps\Cave.xml</Source>
+      <Name>Game\Levels\Maps\Cave</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\Game\Levels\Maps\Cave.xnb</Output>
+      <Time>2016-07-12T15:11:13.6414892+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{559B7D27-7383-48FB-A3D7-329052734154}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\C# Projects\YureaProject\YureaProject\YureaProjectContent\</RootDirectory>
+      <LoggerRootDirectory>D:\C# Projects\YureaProject\YureaProject\YureaProject\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\C# Projects\YureaProject\YureaProject\YureaProject\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\C# Projects\YureaProject\YureaProject\YureaProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\C# Projects\YureaProject\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll</Key>
+        <Value>2016-07-12T16:16:22.6270382+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-06-21T13:29:28.1756739+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

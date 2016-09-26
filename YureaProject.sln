@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YureaProject", "YureaProject\YureaProject\YureaProject.csproj", "{AEA70578-DEDE-45DB-97BA-5A203D54D7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YureaProjectContent", "YureaProject\YureaProjectContent\YureaProjectContent.contentproj", "{559B7D27-7383-48FB-A3D7-329052734154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XRpgLibrary", "XRpgLibrary\XRpgLibrary.csproj", "{B7641A8A-EC6A-4A6F-B9A4-8314599A1908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpgEditor", "RpgEditor\RpgEditor.csproj", "{5782D41D-9BD3-4C13-A276-2DD83BE684CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLevelEditor", "XLevelEditor\XLevelEditor\XLevelEditor.csproj", "{1076EDC5-313E-4309-BEC9-712D4DF0BEFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLevelEditorContent", "XLevelEditor\XLevelEditorContent\XLevelEditorContent.contentproj", "{4D602F7A-CE43-48FE-9B9F-B73E351A0309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA70578-DEDE-45DB-97BA-5A203D54D7A9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AEA70578-DEDE-45DB-97BA-5A203D54D7A9}.Debug|x86.ActiveCfg = Debug|x86
+		{AEA70578-DEDE-45DB-97BA-5A203D54D7A9}.Debug|x86.Build.0 = Debug|x86
+		{AEA70578-DEDE-45DB-97BA-5A203D54D7A9}.Release|Any CPU.ActiveCfg = Release|x86
+		{AEA70578-DEDE-45DB-97BA-5A203D54D7A9}.Release|x86.ActiveCfg = Release|x86
+		{AEA70578-DEDE-45DB-97BA-5A203D54D7A9}.Release|x86.Build.0 = Release|x86
+		{559B7D27-7383-48FB-A3D7-329052734154}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{559B7D27-7383-48FB-A3D7-329052734154}.Debug|x86.ActiveCfg = Debug|x86
+		{559B7D27-7383-48FB-A3D7-329052734154}.Release|Any CPU.ActiveCfg = Release|x86
+		{559B7D27-7383-48FB-A3D7-329052734154}.Release|x86.ActiveCfg = Release|x86
+		{B7641A8A-EC6A-4A6F-B9A4-8314599A1908}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B7641A8A-EC6A-4A6F-B9A4-8314599A1908}.Debug|x86.ActiveCfg = Debug|x86
+		{B7641A8A-EC6A-4A6F-B9A4-8314599A1908}.Debug|x86.Build.0 = Debug|x86
+		{B7641A8A-EC6A-4A6F-B9A4-8314599A1908}.Release|Any CPU.ActiveCfg = Release|x86
+		{B7641A8A-EC6A-4A6F-B9A4-8314599A1908}.Release|x86.ActiveCfg = Release|x86
+		{B7641A8A-EC6A-4A6F-B9A4-8314599A1908}.Release|x86.Build.0 = Release|x86
+		{5782D41D-9BD3-4C13-A276-2DD83BE684CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5782D41D-9BD3-4C13-A276-2DD83BE684CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5782D41D-9BD3-4C13-A276-2DD83BE684CE}.Debug|x86.ActiveCfg = Debug|x86
+		{5782D41D-9BD3-4C13-A276-2DD83BE684CE}.Debug|x86.Build.0 = Debug|x86
+		{5782D41D-9BD3-4C13-A276-2DD83BE684CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5782D41D-9BD3-4C13-A276-2DD83BE684CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5782D41D-9BD3-4C13-A276-2DD83BE684CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{5782D41D-9BD3-4C13-A276-2DD83BE684CE}.Release|x86.Build.0 = Release|Any CPU
+		{1076EDC5-313E-4309-BEC9-712D4DF0BEFF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1076EDC5-313E-4309-BEC9-712D4DF0BEFF}.Debug|x86.ActiveCfg = Debug|x86
+		{1076EDC5-313E-4309-BEC9-712D4DF0BEFF}.Debug|x86.Build.0 = Debug|x86
+		{1076EDC5-313E-4309-BEC9-712D4DF0BEFF}.Release|Any CPU.ActiveCfg = Release|x86
+		{1076EDC5-313E-4309-BEC9-712D4DF0BEFF}.Release|x86.ActiveCfg = Release|x86
+		{1076EDC5-313E-4309-BEC9-712D4DF0BEFF}.Release|x86.Build.0 = Release|x86
+		{4D602F7A-CE43-48FE-9B9F-B73E351A0309}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4D602F7A-CE43-48FE-9B9F-B73E351A0309}.Debug|x86.ActiveCfg = Debug|x86
+		{4D602F7A-CE43-48FE-9B9F-B73E351A0309}.Release|Any CPU.ActiveCfg = Release|x86
+		{4D602F7A-CE43-48FE-9B9F-B73E351A0309}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

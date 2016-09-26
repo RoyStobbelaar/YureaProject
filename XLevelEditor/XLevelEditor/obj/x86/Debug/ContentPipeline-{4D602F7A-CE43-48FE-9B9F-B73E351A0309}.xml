@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Content\cursor1.png</Source>
+      <Name>Content\cursor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Content\cursor1.xnb</Output>
+      <Time>2016-07-05T12:38:03.2349614+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\grid.png</Source>
+      <Name>Content\grid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Content\grid.xnb</Output>
+      <Time>2016-07-05T12:39:26.4406171+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\cursor.png</Source>
+      <Name>Content\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Content\cursor.xnb</Output>
+      <Time>2016-07-05T12:47:29.96669+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.png</Source>
+      <Name>grid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\grid.xnb</Output>
+      <Time>2016-07-09T10:52:15.8988944+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2016-07-09T10:52:15.9013953+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_A1.png</Source>
+      <Name>Tilesets\Dungeon_A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Dungeon_A1.xnb</Output>
+      <Time>2016-07-09T12:20:31.8727497+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_A2.png</Source>
+      <Name>Tilesets\Dungeon_A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Dungeon_A2.xnb</Output>
+      <Time>2016-07-09T12:20:31.8747499+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_A4.png</Source>
+      <Name>Tilesets\Dungeon_A4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Dungeon_A4.xnb</Output>
+      <Time>2016-07-09T12:20:31.8767516+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_A5.png</Source>
+      <Name>Tilesets\Dungeon_A5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Dungeon_A5.xnb</Output>
+      <Time>2016-07-09T12:20:31.8797511+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_B.png</Source>
+      <Name>Tilesets\Dungeon_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Dungeon_B.xnb</Output>
+      <Time>2016-07-09T12:20:31.8817538+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Dungeon_C.png</Source>
+      <Name>Tilesets\Dungeon_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Dungeon_C.xnb</Output>
+      <Time>2016-07-09T12:20:31.8837531+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_A1.png</Source>
+      <Name>Tilesets\Inside_A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Inside_A1.xnb</Output>
+      <Time>2016-07-09T12:20:31.8857532+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_A2.png</Source>
+      <Name>Tilesets\Inside_A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Inside_A2.xnb</Output>
+      <Time>2016-07-09T12:20:31.8877544+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_A4.png</Source>
+      <Name>Tilesets\Inside_A4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Inside_A4.xnb</Output>
+      <Time>2016-07-09T12:20:31.8897536+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_A5.png</Source>
+      <Name>Tilesets\Inside_A5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Inside_A5.xnb</Output>
+      <Time>2016-07-09T12:20:31.8907542+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_B.png</Source>
+      <Name>Tilesets\Inside_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Inside_B.xnb</Output>
+      <Time>2016-07-09T12:20:31.8927556+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Inside_C.png</Source>
+      <Name>Tilesets\Inside_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Inside_C.xnb</Output>
+      <Time>2016-07-09T12:20:31.8947558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A1.png</Source>
+      <Name>Tilesets\Outside_A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Outside_A1.xnb</Output>
+      <Time>2016-07-09T12:20:31.9027577+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A2.png</Source>
+      <Name>Tilesets\Outside_A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Outside_A2.xnb</Output>
+      <Time>2016-07-09T12:20:31.9047585+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A3.png</Source>
+      <Name>Tilesets\Outside_A3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Outside_A3.xnb</Output>
+      <Time>2016-07-09T12:20:31.9067578+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A4.png</Source>
+      <Name>Tilesets\Outside_A4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Outside_A4.xnb</Output>
+      <Time>2016-07-09T12:20:31.9087586+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_A5.png</Source>
+      <Name>Tilesets\Outside_A5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Outside_A5.xnb</Output>
+      <Time>2016-07-09T12:20:31.9107594+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_B.png</Source>
+      <Name>Tilesets\Outside_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Outside_B.xnb</Output>
+      <Time>2016-07-09T12:20:31.9127599+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Outside_C.png</Source>
+      <Name>Tilesets\Outside_C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\Outside_C.xnb</Output>
+      <Time>2016-07-09T12:20:31.9147601+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\World_A1.png</Source>
+      <Name>Tilesets\World_A1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\World_A1.xnb</Output>
+      <Time>2016-07-09T12:20:31.9167612+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\World_A2.png</Source>
+      <Name>Tilesets\World_A2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\World_A2.xnb</Output>
+      <Time>2016-07-09T12:20:31.9187617+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\World_B.png</Source>
+      <Name>Tilesets\World_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\World_B.xnb</Output>
+      <Time>2016-07-09T12:20:31.9207613+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\default.png</Source>
+      <Name>Tilesets\default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\Tilesets\default.xnb</Output>
+      <Time>2016-07-10T10:40:04.0195904+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4D602F7A-CE43-48FE-9B9F-B73E351A0309}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditorContent\</RootDirectory>
+      <LoggerRootDirectory>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\C# Projects\YureaProject\XLevelEditor\XLevelEditor\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-06-21T13:29:28.1756739+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

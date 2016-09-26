@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ItemClasses="RpgLibrary.ItemClasses">
+  <Asset Type="ItemClasses:WeaponData">
+    <Name>Iron Dagger</Name>
+    <Type>Dagger</Type>
+    <Price>10</Price>
+    <Weight>1</Weight>
+    <Equipped>false</Equipped>
+    <NumberHands>One</NumberHands>
+    <AttackValue>6</AttackValue>
+    <AttackModifier>0</AttackModifier>
+    <DamageEffectData>
+      <Name>Iron Dagger</Name>
+      <DamageType>Weapon</DamageType>
+      <AttackType>Health</AttackType>
+      <DieType>D4</DieType>
+      <NumberOfDice>2</NumberOfDice>
+      <Modifier>0</Modifier>
+    </DamageEffectData>
+    <AllowableClasses>
+      <Item>Rogue</Item>
+    </AllowableClasses>
+  </Asset>
+</XnaContent>
